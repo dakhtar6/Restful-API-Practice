@@ -1,0 +1,21 @@
+{
+  "name": "Daneyal'sWebsite",
+  "version": "1.0.0",
+  "description": "A personal website displaying a digital resume, portfolio links and a basic blog",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.12.3",
+    "mongoose": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Daneyal's",
+    "Website"
+  ],
+  "author": "Daneyal Akhtar",
+  "license": "N/A"
+}
